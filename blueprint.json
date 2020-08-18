@@ -1,0 +1,15 @@
+{
+  "title": "Bootstrap",
+  "description": "Original blueprint for bootstrapping a Spaces installation",
+  "license": {
+    "label": "GNU GENERAL PUBLIC LICENSE V3",
+    "url": "http://www.gnu.org/copyleft/gpl.html"
+  },
+  "bindings": [
+    {
+      "descriptor": {
+        "repository": "https://github.com/MarkRatjens/consul.git"
+      }
+    }
+  ]
+}
