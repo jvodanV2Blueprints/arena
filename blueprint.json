@@ -1,19 +1,13 @@
 {
-  "title": "Bootstrap",
-  "description": "Original blueprint for bootstrapping a Spaces installation",
-  "license": {
-    "label": "GNU GENERAL PUBLIC LICENSE V3",
-    "url": "http://www.gnu.org/copyleft/gpl.html"
-  },
+  "about": {
+    "title": "Engines Arena",
+    "explanation": "Original blueprint for bootstrapping a Spaces arena"
+	},
   "bindings": [
     {
-      "descriptor": {
-        "repository": "https://github.com/MarkRatjens/networkServices.git"
-      }
-    },
-    {
-      "descriptor": {
-        "repository": "https://github.com/MarkRatjens/consul.git"
+      "identifier": "dns",
+      "target": {
+        "repository": "https://github.com/MarkRatjens/powerdns.git"
       }
     }
   ]
