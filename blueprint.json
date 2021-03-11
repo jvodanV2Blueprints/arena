@@ -7,13 +7,13 @@
     {
       "identifier": "dns",
       "target": {
-        "repository": "https://github.com/MarkRatjens/powerdns.git"
+        "repository": "https://github.com/v2Blueprints/powerdns.git"
       }
     },
     {
       "identifier": "containing",
       "target": {
-        "repository": "https://github.com/MarkRatjens/lxd.git"
+        "repository": "https://github.com/v2Blueprints/lxd.git"
       }
     }
   ]
